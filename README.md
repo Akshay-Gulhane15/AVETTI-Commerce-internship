@@ -1,1 +1,4 @@
 # AVETTI-Commerce-internship
+Employee retention strategies are integral to the success and well-being of a company. There are often many reasons why employees leave an organization, and in this project, I will explore some of the key drivers of employee attrition. Employee attrition measures how many workers have left an organization and is a common metric companies use to assess their performance. While turnover rates vary from industry to industry, the Bureau of Labor Statistics reported that among voluntary separations the overall turnover rate was 25% in 2022.
+
+In this notebook, I will explore dataset on HR Analytics. The data consists of nearly 1,500 current and former employees with information related to their job satisfaction, work life balance, tenure, experience, salary, and demographic data. Below is a brief overview and summary statistics of the data.
